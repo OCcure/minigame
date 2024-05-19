@@ -1,0 +1,7 @@
+name: MiniGamePlugin
+version: '${version}'
+main: me.occure.minigameplugin.MiniGamePlugin
+api-version: '1.20'
+commands:
+
+
